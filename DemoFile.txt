@@ -2,6 +2,6 @@ Hello Demo
 This
 is 
 GitHub
-Demo... conflict demo
+Demo... conflict demo --- expecting a conflict----
 
 --demo ends---
