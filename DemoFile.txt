@@ -1,7 +1,0 @@
-Hello Demo
-This
-is 
-GitHub
-conflict demo
-
---demo ends---
